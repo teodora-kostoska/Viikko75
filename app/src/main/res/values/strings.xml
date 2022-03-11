@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Viikko75</string>
+    <string name="input">input</string>
+    <string name="load">Load</string>
+    <string name="save">Save</string>
+    <string name="filename">filename</string>
+    <string name="output">output</string>
+</resources>
